@@ -7,6 +7,8 @@ public class LoginTest {
 		System.out.println("Perform login test");
 		System.out.println("Test failed");
 		System.out.println("Test success");
+		System.out.println("perform logout");
+
 	
 		
 	}
